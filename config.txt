@@ -1,6 +1,6 @@
-token=NTA2MTY4NjI1NzIwMTk3MTMw.Drzutg.2HTGQTtEXHsJh1XSBvk9RoHOQ10
+token=NTExOTc5MTU2MzY0NTkxMTE1.DsyxXg.8-eNO0t7rbMgZ0KPkZ7Nz0ipjTU
 owner=485579083649122304
-prefix=O
+prefix=3
 game= BOND MUSIC.
 stayinchannel=true
 songinstatus=false
