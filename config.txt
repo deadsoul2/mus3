@@ -1,7 +1,7 @@
 token=NTExOTc5MTU2MzY0NTkxMTE1.DsyxXg.8-eNO0t7rbMgZ0KPkZ7Nz0ipjTU
-owner=485579083649122304
-prefix=3
-game= BOND MUSIC.
+owner=277083530683613184
+prefix=.K
+game= Kiven'Mú .
 stayinchannel=true
 songinstatus=false
 status=idle
